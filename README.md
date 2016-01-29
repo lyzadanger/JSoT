@@ -54,7 +54,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     a device that can perform _[analog-to-digital conversion](#analog-to-digital-conversion)_
 * **Anode**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
-* ARM:
+* **[ARM (company)](glossary/ARM-COMPANY.md)**:
+    British semiconductor company that licenses the ARM architecture. ARM does not _manufacture_ any ARM devices.
+* ARM (architecture):
 * ARM Cortex M:
 * Arduino:
 * Arduino IDE:
