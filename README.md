@@ -55,8 +55,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Anode**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
-    British semiconductor company that licenses the ARM architecture.
-* ARM (architecture):
+    British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_.
+* **ARM (architecture)**<a name="ARM-architecture"></a>:
+    family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications.
 * ARM Cortex M:
 * Arduino:
 * Arduino IDE:
