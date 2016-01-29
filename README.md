@@ -35,7 +35,8 @@ JavaScript of Things Glossary
 * **[Adafruit Industries](glossary/ADAFRUIT.md)**: Open-source hardware company and online store
 * **ADC**: See [Analog-to-digital conversion](#analog-to-digital-conversion)
 * **[Ampere](glossary/AMPERE.md)** or Amp: Unit of current
-* <a id="analog-to-digital-conversion"></a>**Analog-to-Digital Conversion**:
+* <a id="analog-to-digital-conversion"></a>**[Analog-to-Digital Conversion](glossary/ANALOG-TO-DIGITAL-CONVERSION.md)**: The conversion of analog voltages to digital values
+* **Analog-to-digital (ADC) converter**: A device that can perform [Analog-to-digital conversion](#analog-to-digital-conversion)
 * ARM:
 * ARM Cortex M:
 * Arduino:
