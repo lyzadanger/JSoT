@@ -1,5 +1,8 @@
 # JSoT
-JavaScript of Things Glossary
+
+JavaScript of Things Glossary!
+
+This is a community effort to define and explain some common terms applicable to the combination of Internet of Things with JavaScript. The format is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](contributing.md).
 
 ## Glossary
 
@@ -33,7 +36,7 @@ JavaScript of Things Glossary
 ### A
 
 * **[Adafruit Industries](glossary/ADAFRUIT.md)**: Open-source hardware company and online store
-* **ADC**: See [Analog-to-digital conversion](#analog-to-digital-conversion)
+* **ADC**: See _[Analog-to-digital conversion](#analog-to-digital-conversion)_
 * **[Ampere](glossary/AMPERE.md)** or Amp: Unit of current
 * <a id="analog-to-digital-conversion"></a>**[Analog-to-Digital Conversion](glossary/ANALOG-TO-DIGITAL-CONVERSION.md)**: The conversion of analog voltages to digital values
 * **Analog-to-digital (ADC) converter**: A device that can perform [Analog-to-digital conversion](#analog-to-digital-conversion)
