@@ -33,9 +33,9 @@ JavaScript of Things Glossary
 ### A
 
 * [Adafruit Industries](glossary/ADAFRUIT.md): Open-source hardware company and online store
-* ADC:
+* ADC: See [Analog-to-digital conversion](#analog-to-digital-conversion)
 * Amp:
-* Analog-to-Digital Conversion:
+* <a id="analog-to-digital-conversion"></a>Analog-to-Digital Conversion:
 * ARM:
 * ARM Cortex M:
 * Arduino:
