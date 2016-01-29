@@ -55,7 +55,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Anode**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
-    British semiconductor company that licenses the ARM architecture. ARM does not _manufacture_ any ARM devices.
+    British semiconductor company that licenses the ARM architecture.
 * ARM (architecture):
 * ARM Cortex M:
 * Arduino:
