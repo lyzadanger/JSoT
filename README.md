@@ -126,7 +126,8 @@ JavaScript of Things Glossary
 
 ### O
 
-* Ohm's Law:
+* Ohm
+* [Ohm's Law](glossary/OHMS-LAW.md):
 * Onion:
 * Open hardware:
 
