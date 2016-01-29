@@ -1,8 +1,8 @@
-# JSoT
+# JavaScript on Things (JSoT) Glossary
 
-[JavaScript on Things](#javascript-on-things) Glossary!
+This is an organic, motley, community-based assortment of terms relating to [JavaScript on Things](#javascript-on-things), the intersection of JavaScript and the Internet of Things (IoT).
 
-This is a community effort to define and explain some common terms applicable to the combination of Internet of Things with JavaScript. The format is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](contributing.md).
+The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](contributing.md).
 
 ## Glossary
 
