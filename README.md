@@ -1,6 +1,6 @@
 # JSoT
 
-JavaScript of Things Glossary!
+[JavaScript on Things](#javascript-on-things) Glossary!
 
 This is a community effort to define and explain some common terms applicable to the combination of Internet of Things with JavaScript. The format is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](contributing.md).
 
@@ -135,8 +135,10 @@ This is a community effort to define and explain some common terms applicable to
 
 ### J
 
+* <a name="javascript-on-things"></a>**JavaScript on Things (JSoT)**: A muddled portmanteau of _JavaScript_ and _Internet of Things_. You know, for fun!
 * JerryScript:
 * johnny-five:
+* **JSoT**: See [JavaScript on Things](#javascript-on-things)
 * JST:
 
 ### K
