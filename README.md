@@ -63,6 +63,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Atmel Corporation:
 * ATmega:
 * AVR:
+* AVRISP:
 * avrdude:
 * avrgirl:
 
@@ -70,10 +71,14 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Backpack:
 * BeagleBone:
+* Bit:
+* Bit shift:
+* Bitwise operator:
 * Board:
 * Bootloader:
 * Breadboard:
 * Breakout board:
+* Byte:
 
 ### C
 
@@ -85,6 +90,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * CISC:
 * **Conventional current**<a name="conventional-current"></a>:
     mental model envisioning current as running from positive to negative in a circuit.
+* Continuity:
+* <a name="conventional-current"></a>**Conventional current**:
+  Mental model of current as running from positive to negative in a circuit
 * cylon.js:
 * Current:
 
@@ -93,6 +101,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * DAC:
 * Datasheet:
 * DC:
+* Decoupling:
 * Desolder:
 * Digital-to-Analog Conversion:
 * Digital-to-Analog Converter (DAC):
@@ -121,6 +130,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Firmata:
 * Flash _(noun)_:
 * Flash _(verb)_:
+* Flux:
+* FRAM:
 * Fritzing:
 * FTDI:
 
@@ -133,25 +144,31 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### H
 
 * H bridge:
+* Header:
 * Hexadecimal:
 
 ### I
 
 * I^2C
+* ICSP:
 * Inductor:
 * Instruction Set:
 * Intel Edison:
 * Intel Galileo:
 * ISA:
+* ISP:
 
 ### J
 
 * **JavaScript on Things (JSoT)**<a name="javascript-on-things"></a>:
     a muddled portmanteau of _JavaScript_ and _Internet of Things_. You know, for fun!
 * JerryScript:
+* JLink:
 * johnny-five:
 * **JSoT**: See [JavaScript on Things](#javascript-on-things)
 * JST:
+* JTAG:
+* Jumper wire:
 
 ### K
 
@@ -159,6 +176,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### L
 
+* LCD:
 * LED:
 * Light-emitting diode:
 * LiPo:
@@ -172,9 +190,12 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * MCU:
 * Mesh network:
 * Microcontroller:
+* Mosfet:
 * Motor:
 * Motor controller:
 * MQTT:
+* MSP-43x:
+* Multimeter:
 
 ### N
 
@@ -191,12 +212,15 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Onion:
 * Op amp:
 * Open hardware:
+* OpenOCD:
+* OpenSDA:
 
 ### P
 
 * Particle:
 * Particle Photon:
 * Particle Electron:
+* PCB:
 * Perfboard:
 * Photoresistor:
 * The Physical Web:
@@ -208,6 +232,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Potentiometer:
 * Power:
 * Program memory:
+* Programmer:
 * PROM:
 * Prototyping board:
 * Proximity sensor:
@@ -223,6 +248,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * RAM:
 * Raspberry Pi:
 * Raspbian:
+* Real-time clock:
 * Reed switch:
 * Relay:
 * Reset (button):
@@ -241,6 +267,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Serial:
 * Servo:
 * Shield:
+* Shift register:
 * Single-board computer:
 * Single-pole dual-throw switch (SPDT):
 * Single-pole single-throw switch (SPST):
@@ -250,12 +277,15 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * SMT:
 * SoC:
 * Software serial:
+* Solder:
+* Solder stencil:
 * SparkFun:
 * SparkFun RedBoard:
 * Spec sheet:
 * SPI:
 * SPDT:
 * SPST:
+* ST-Link:
 * Surface-mount:
 * System bus:
 * System on a Chip:
@@ -266,6 +296,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Tessel:
 * Thermocoupler:
 * TMP 36:
+* Toggle switch:
 * Transceiver:
 * Transducer:
 * Transistor:
@@ -298,3 +329,5 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### Z
 
 * Zetta:
+* ZIF socket:
+* Zigbee:
