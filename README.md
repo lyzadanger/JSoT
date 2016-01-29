@@ -32,10 +32,10 @@ JavaScript of Things Glossary
 
 ### A
 
-* [Adafruit Industries](glossary/ADAFRUIT.md): Open-source hardware company and online store
-* ADC: See [Analog-to-digital conversion](#analog-to-digital-conversion)
-* [Ampere](glossary/AMPERE.md) or Amp: Unit of current
-* <a id="analog-to-digital-conversion"></a>Analog-to-Digital Conversion:
+* **[Adafruit Industries](glossary/ADAFRUIT.md)**: Open-source hardware company and online store
+* **ADC**: See [Analog-to-digital conversion](#analog-to-digital-conversion)
+* **[Ampere](glossary/AMPERE.md)** or Amp: Unit of current
+* <a id="analog-to-digital-conversion"></a>**Analog-to-Digital Conversion**:
 * ARM:
 * ARM Cortex M:
 * Arduino:
@@ -127,7 +127,7 @@ JavaScript of Things Glossary
 ### O
 
 * Ohm
-* [Ohm's Law](glossary/OHMS-LAW.md):
+* **[Ohm's Law](glossary/OHMS-LAW.md)**: A foundational set of relationships between voltage, current and resistance
 * Onion:
 * Open hardware:
 
