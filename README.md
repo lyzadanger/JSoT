@@ -58,7 +58,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_.
 * **ARM (architecture)**<a name="ARM-architecture"></a>:
     family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications.
-* ARM Cortex M:
+* **ARM Cortex M**:
+    family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems.
 * Arduino:
 * Arduino IDE:
 * Atmel Corporation:
@@ -145,6 +146,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### H
 
 * H bridge:
+* Harvard architecture:
 * Header:
 * Hexadecimal:
 
