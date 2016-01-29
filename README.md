@@ -48,7 +48,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
   The conversion of analog voltages to digital values
 * **Analog-to-digital (ADC) converter**:
   A device that can perform [Analog-to-digital conversion](#analog-to-digital-conversion)
-* Anode:
+* **Anode**:
+  electrode through which [_conventional current_](#conventional-current) enters (flows into) a polarized device
 * ARM:
 * ARM Cortex M:
 * Arduino:
@@ -73,8 +74,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Capacitor:
 * Capacitive:
 * Cape:
-* Cathode:
+* **Cathode**:
+  electrode through which [_conventional current_](#conventional-current) leaves (flows out of) a polarized device
 * CISC:
+* <a name="conventional-current"></a>**Conventional current**:
+  Mental model of current as running from positive to negative in a circuit
 * cylon.js:
 * Current:
 
@@ -193,6 +197,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Pinout:
 * Pins:
 * Potentiometer:
+* Power:
 * Program memory:
 * PROM:
 * Prototyping board:
