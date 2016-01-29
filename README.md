@@ -35,21 +35,25 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### A
 
-* AC:
-* AC/DC adapter:
-* Actuator:
+* **AC**:
+    _see [alternating current](#alternating-current)_
+* **AC/DC adapter**:
+    a device that converts [_alternating current_](#alternating-current) to [_direct current_](#direct-current).
+* **Actuator**:
+    a physical device that converts energy into motion, e.g. a _motor_.
 * **[Adafruit Industries](glossary/ADAFRUIT.md)**:
-  Open-source hardware company and online store
-* **ADC**: See _[Analog-to-digital conversion](#analog-to-digital-conversion)_
-* Alternating Current:
-* **[Ampere](glossary/AMPERE.md)** or Amp:
-  Unit of current
-* <a id="analog-to-digital-conversion"></a>**[Analog-to-Digital Conversion](glossary/ANALOG-TO-DIGITAL-CONVERSION.md)**:
-  The conversion of analog voltages to digital values
+    open-source hardware company and online store
+* **ADC**: _See [analog-to-digital conversion](#analog-to-digital-conversion)_
+* **Alternating Current**<a id="alternating-current"></a>:
+    electrical current in which the direction of flow reverses periodically. The kind that comes out of the wall in homes and offices.
+* **[Ampere](glossary/AMPERE.md)** or _Amp_:
+    unit of current
+* **[Analog-to-Digital Conversion](glossary/ANALOG-TO-DIGITAL-CONVERSION.md)**<a id="analog-to-digital-conversion"></a>:
+    the conversion of analog voltages to digital values
 * **Analog-to-digital (ADC) converter**:
-  A device that can perform [Analog-to-digital conversion](#analog-to-digital-conversion)
+    a device that can perform _[analog-to-digital conversion](#analog-to-digital-conversion)_
 * **Anode**:
-  electrode through which [_conventional current_](#conventional-current) enters (flows into) a polarized device
+    electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * ARM:
 * ARM Cortex M:
 * Arduino:
@@ -75,10 +79,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Capacitive:
 * Cape:
 * **Cathode**:
-  electrode through which [_conventional current_](#conventional-current) leaves (flows out of) a polarized device
+    electrode through which _[conventional current](#conventional-current)_ leaves (flows out of) a polarized device.
 * CISC:
-* <a name="conventional-current"></a>**Conventional current**:
-  Mental model of current as running from positive to negative in a circuit
+* **Conventional current**<a name="conventional-current"></a>:
+    mental model envisioning current as running from positive to negative in a circuit.
 * cylon.js:
 * Current:
 
@@ -91,7 +95,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Digital-to-Analog Conversion:
 * Digital-to-Analog Converter (DAC):
 * Diode:
-* Direct current:
+* **Direct current** (DC)<a name="direct-current"></a>:
+    electrical flow in a single direction, e.g. from batteries.
 * DTR:
 * Duty cycle:
 
@@ -139,7 +144,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### J
 
-* <a name="javascript-on-things"></a>**JavaScript on Things (JSoT)**: A muddled portmanteau of _JavaScript_ and _Internet of Things_. You know, for fun!
+* **JavaScript on Things (JSoT)**<a name="javascript-on-things"></a>:
+    a muddled portmanteau of _JavaScript_ and _Internet of Things_. You know, for fun!
 * JerryScript:
 * johnny-five:
 * **JSoT**: See [JavaScript on Things](#javascript-on-things)
@@ -177,7 +183,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### O
 
 * Ohm
-* **[Ohm's Law](glossary/OHMS-LAW.md)**: A foundational set of relationships between voltage, current and resistance
+* **[Ohm's Law](glossary/OHMS-LAW.md)**:
+    a foundational set of relationships between voltage, current and resistance.
 * OLED:
 * Onion:
 * Op amp:
