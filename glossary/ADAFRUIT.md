@@ -1,0 +1,1 @@
+[Adafruit Industries](http://www.adafruit.com) is an open-source hardware company and online store. It was founded in 2005 by Limor Fried, a.k.a. "ladyada". The company manufactures and sells electronic kits and boards, and also sells third-party electronic components. [Adafruit's Site](http://www.adafruit.com) also provides tutorials, posts and other learning resources.

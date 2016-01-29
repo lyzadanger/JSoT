@@ -32,7 +32,7 @@ JavaScript of Things Glossary
 
 ### A
 
-* Adafruit Industries: Open-source hardware company and online store
+* [Adafruit Industries](glossary/ADAFRUIT.md): Open-source hardware company and online store
 * ADC:
 * Amp:
 * Analog-to-Digital Conversion:
