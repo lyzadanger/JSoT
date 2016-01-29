@@ -34,7 +34,7 @@ JavaScript of Things Glossary
 
 * [Adafruit Industries](glossary/ADAFRUIT.md): Open-source hardware company and online store
 * ADC: See [Analog-to-digital conversion](#analog-to-digital-conversion)
-* Amp:
+* [Ampere](glossary/AMPERE.md) or Amp: Unit of current
 * <a id="analog-to-digital-conversion"></a>Analog-to-Digital Conversion:
 * ARM:
 * ARM Cortex M:

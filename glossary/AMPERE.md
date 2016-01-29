@@ -1,0 +1,1 @@
+An _ampere_ or _amp_ is a basic unit of current. It is the unit used when computing relationships using [Ohm's Law](OHMS-LAW.md). For low-voltage circuitry used with IoT or hobby electronics, current is often expressed in milliamps (mA), with 1 milliamp = 1/1000 amp.
