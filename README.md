@@ -98,8 +98,6 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Conventional current**<a name="conventional-current"></a>:
     mental model envisioning current as running from positive to negative in a circuit.
 * Continuity:
-* <a name="conventional-current"></a>**Conventional current**:
-  Mental model of current as running from positive to negative in a circuit
 * cylon.js:
 * Current:
 
