@@ -1,0 +1,1 @@
+[Cylon.js](https://cylonjs.com/) is a JavaScript framework for robotics, physical computing, and the Internet of Things. It supports a wide variety of platforms and features an API plugin system. Cylon.js can be run directly in-browser, within a Chrome connected app, or within a PhoneGap mobile app.
