@@ -55,11 +55,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Anode**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
-    British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_.
+    British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_
 * **ARM (architecture)**<a name="ARM-architecture"></a>:
-    family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications.
+    family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications
 * **ARM Cortex M**:
-    family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems.
+    family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems
 * **Arduino (platform)**<a name="arduino-platform"></a>:
     open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects
 * **Arduino IDE**:
