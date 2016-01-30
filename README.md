@@ -100,10 +100,12 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Cape:
 * **Cathode**:
     electrode through which _[conventional current](#conventional-current)_ leaves (flows out of) a polarized device
+* Charge:
 * CISC:
 * **Conventional current**<a name="conventional-current"></a>:
     mental model envisioning current as running from positive to negative in a circuit
 * Continuity:
+* Coulumb:
 * **[cylon.js](glossary/CYLONJS.md)**:
     JavaScript framework for robotics, physical computing, and the Internet of Things
 * **Current**:
@@ -134,6 +136,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * EL wire:
 * Embedded:
 * Embedded System:
+* Energy:
 * ESP8266:
 * Espruino:
 
@@ -324,7 +327,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### V
 
-* Voltage:
+* Volt:
+* **Voltage**:
+    The _potential_ to produce current, measured as a difference between two points (unit: _volts_)
 * Voltage divider:
 * Voltage regulator:
 
