@@ -60,13 +60,18 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications.
 * **ARM Cortex M**:
     family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems.
-* Arduino:
-* Arduino IDE:
+* **Arduino (platform)**:
+    an open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects.
+* **Arduino IDE**:
+    development environment for writing in the Arduino programming language and uploading sketches to Arduino devices.
+* **Arduino (programming language)**:
+    you can program your Arduino with any C or C++ that avr-gcc can compile.
 * Atmel Corporation:
 * ATmega:
 * AVR:
 * AVRISP:
 * avrdude:
+* avr-gcc:
 * avrgirl:
 
 ### B
