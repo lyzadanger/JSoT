@@ -44,7 +44,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **[Adafruit Industries](glossary/ADAFRUIT.md)**:
     open-source hardware company and online store
 * **ADC**: _See [analog-to-digital conversion](#analog-to-digital-conversion)_
-* **Alternating Current**<a id="alternating-current"></a>:
+* **[Alternating Current](glossary/ALTERNATING-CURRENT.md)**<a id="alternating-current"></a>:
     electrical current in which the direction of flow reverses periodically—the kind that comes out of the wall in homes and offices
 * **[Ampere](glossary/AMPERE.md)** or _amp_:
     unit of current
@@ -312,6 +312,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Toggle switch:
 * Transceiver:
 * Transducer:
+* Transformer:
 * Transistor:
 * TTL:
 
