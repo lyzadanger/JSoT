@@ -46,7 +46,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **ADC**: _See [analog-to-digital conversion](#analog-to-digital-conversion)_
 * **[Alternating Current](glossary/ALTERNATING-CURRENT.md)**<a id="alternating-current"></a>:
     electrical current in which the direction of flow reverses periodically—the kind that comes out of the wall in homes and offices
-* **[Ampere](glossary/AMPERE.md)** or _amp_:
+* **[Ampere](glossary/AMPERE.md)** or _amp_<a name="ampere"></a>:
     unit of current
 * **[Analog-to-Digital Conversion](glossary/ANALOG-TO-DIGITAL-CONVERSION.md)**<a id="analog-to-digital-conversion"></a>:
     conversion of analog voltages to digital values
@@ -106,7 +106,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Continuity:
 * **[cylon.js](glossary/CYLONJS.md)**:
     JavaScript framework for robotics, physical computing, and the Internet of Things
-* Current:
+* **Current**:
+    The movement of electrons, usually measured in _[Amperes](#ampere)_ and denoted as `I` in _[Ohm's Law](#ohms-law)_
 
 ### D
 
@@ -219,7 +220,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### O
 
 * Ohm
-* **[Ohm's Law](glossary/OHMS-LAW.md)**:
+* **[Ohm's Law](glossary/OHMS-LAW.md)**<a name="ohms-law"></a>:
     foundational set of relationships between voltage, current and resistance
 * OLED:
 * Onion:
