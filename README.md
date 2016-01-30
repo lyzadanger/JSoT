@@ -65,17 +65,20 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Arduino IDE**:
     development environment for writing in the Arduino programming language and uploading sketches to Arduino devices.
 * **Arduino (programming language)**:
-    you can program your Arduino with any C or C++ that avr-gcc can compile.
+    you can program your Arduino with any C or C++ that _[avr-gcc](#avr-gcc)_ can compile.
 * **Atmel Corporation**<a name="atmel-corporation"></a>:
     American semiconductor manufacturer, known for embedded microcontrollers including _[AVR](#avr)_ _[ATmega](#atmega)_ microcontrollers.
 * **ATmega**,  _megaAVR_ <a name="atmega"></a>:
     family of microcontrollers manufactured by _[Atmel](#atmel-corporation)_, used widely in IoT electronics such as _[Arduinos](#arduino-platform)_.
-* **AVR**, or Atmel AVR:
+* **AVR**, or Atmel AVR<a name="avr"></a>:
     instruction set architecture (ISA) widely used in _[Atmel](#atmel-corporation)_ microcontrollers.
 * AVRISP:
-* avrdude:
-* avr-gcc:
-* avrgirl:
+* **avrdude**:
+    command-line software utility to download, upload or manipulate the ROM and EEPROM contents of AVR microcontrollers.
+* **avr-gcc**<a name="avr-gcc"></a>:
+    compiler that converts C/C++ code to binary code for uploading to _[AVR](#avr)_ microcontrollers
+* **avrgirl**:
+    collection of several npm packages for interacting with AVR microcontrollers.
 
 ### B
 
