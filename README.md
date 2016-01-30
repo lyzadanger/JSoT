@@ -55,16 +55,23 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Anode**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
-    British semiconductor company that licenses the ARM architecture.
-* ARM (architecture):
-* ARM Cortex M:
-* Arduino:
-* Arduino IDE:
+    British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_.
+* **ARM (architecture)**<a name="ARM-architecture"></a>:
+    family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications.
+* **ARM Cortex M**:
+    family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems.
+* **Arduino (platform)**:
+    an open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects.
+* **Arduino IDE**:
+    development environment for writing in the Arduino programming language and uploading sketches to Arduino devices.
+* **Arduino (programming language)**:
+    you can program your Arduino with any C or C++ that avr-gcc can compile.
 * Atmel Corporation:
 * ATmega:
 * AVR:
 * AVRISP:
 * avrdude:
+* avr-gcc:
 * avrgirl:
 
 ### B
@@ -144,6 +151,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### H
 
 * H bridge:
+* Harvard architecture:
 * Header:
 * Hexadecimal:
 
