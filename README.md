@@ -2,7 +2,7 @@
 
 This is an organic, motley, community-based assortment of terms relating to [JavaScript on Things](#javascript-on-things), the intersection of JavaScript and the Internet of Things (IoT).
 
-The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](contributing.md).
+The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](CONTRIBUTING.md).
 
 ## Glossary
 
