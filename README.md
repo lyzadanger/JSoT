@@ -124,7 +124,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Direct current** (DC)<a name="direct-current"></a>:
     electrical flow in a single direction, e.g. from batteries
 * DTR:
-* Duty cycle:
+* **[Duty cycle](glossary/DUTY-CYCLE.md)**:
+    the percentage of one period in which a signal or system is active
 
 ### E
 
@@ -160,9 +161,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### H
 
 * H bridge:
+    an electronic circuit that enables a voltage to be applied across a load in either direction
 * Harvard architecture:
 * Header:
 * Hexadecimal:
+    numeral system with base of 16, using A-F to represent ten through fifteen
 
 ### I
 
@@ -194,8 +197,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### L
 
 * LCD:
-* LED:
-* Light-emitting diode:
+* **LED**:
+    See [Light-emitting diode](#light-emitting-diode)
+* **Light-emitting diode**<a name="light-emitting-diode"></a>:
+    a two-lead semiconductor which emits light when activated
 * LiPo:
 * Lithium polymer:
 * Load sensor:
