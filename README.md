@@ -103,8 +103,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Charge:
 * CISC:
 * **Conventional current**<a name="conventional-current"></a>:
-    mental model envisioning current as running from positive to negative in a circuit
-* Continuity:
+    mental model envisioning current as running from positive to negative in a circuit.
+* **Continuity**:
+    An unbroken path from one part of a circuit to another.
 * Coulumb:
 * **[cylon.js](glossary/CYLONJS.md)**:
     JavaScript framework for robotics, physical computing, and the Internet of Things
@@ -155,8 +156,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### G
 
 * Galileo:
-* General-purpose I/O:
-* GPIO:
+* **General Purpose I/O (GPIO)**:
+    General purpose pins that can be configured to perform input or output.
 
 ### H
 
@@ -212,7 +213,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * MCU:
 * Mesh network:
 * Microcontroller:
+* **Master Input, Slave Output (MISO)**:
+    _[SPI](#spi)_ input to master from slave device.
 * Mosfet:
+* **Master Output, Slave Input (MOSI)**:
+    _[SPI](#spi)_ output from master to slave device.
 * Motor:
 * Motor controller:
 * MQTT:
@@ -234,15 +239,18 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Onion:
 * Op amp:
 * Open hardware:
-* OpenOCD:
-* OpenSDA:
+* **OpenOCD**:
+    Provides communication with embedded targets that enables on-chip debugging as well as in-system programming.
+* **OpenSDA**:
+    Provides communication with many NXP/Freescale embedded targets (via USB) that enables debugging/programming.
 
 ### P
 
 * Particle:
 * Particle Photon:
 * Particle Electron:
-* PCB:
+* **PCB**<a name="pcb"></a>:
+    Printed circuit board.
 * Perfboard:
 * Photoresistor:
 * The Physical Web:
@@ -280,10 +288,14 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * ROHS:
 * ROM:
 * Rotary encoder:
+* **RX**:
+    Shorthand for receive. Used with _[UART](#uart)_/_[USART](#usart)_ communication.
 
 ### S
 
 * SBC:
+* **SCK**:
+    _[SPI](#spi)_ clock signal.
 * Segment display:
 * Sensor:
 * Serial:
@@ -295,8 +307,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Single-pole single-throw switch (SPST):
 * Sketch:
 * Slide potentiometer or slide pot:
-* SMD:
-* SMT:
+* **Surface Mount Device (SMD)**<a name="smd"></a>:
+    Component that solders to pads on the surface of a _[PCB](#pcb)_.
+* **Surface Mount Technology (SMT)**:
+    Describes the production of circuits that utilize _[SMD](#smd)_.
 * SoC:
 * Software serial:
 * Solder:
@@ -304,9 +318,14 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * SparkFun:
 * SparkFun RedBoard:
 * Spec sheet:
-* SPI:
+
+
+* **Serial Peripheral Interface (SPI)**<a name="spi"></a>:
+    A synchronous serial interface that provides communication between electronic components and devices.
 * SPDT:
 * SPST:
+* **SS**:
+    _[SPI](#spi)_ "Slave Select". Each SPI device in a circuit gets its own SS connection. Determines active device.
 * ST-Link:
 * Surface-mount:
 * System bus:
@@ -324,14 +343,23 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Transformer:
 * Transistor:
 * TTL:
+* **TX**:
+    Shorthand for transmit. Used with _[UART](#uart)_/_[USART](#usart)_ communication.
 
 ### U
 
-* UART:
+* **Universal Asynchronous Receive/Transmit (UART)**<a name="uart"></a>:
+    Basic asynchronous RS-232 serial communication.
+* **Universal Synchronous/Asynchronous Receive/Transmit (USART)**<a name="usart"></a>:
+    Basic synchronous or asynchronous RS-232 serial communication.
 * USB OTG:
 
 ### V
 
+* **VCC**:
+    Positive supply voltage.
+* **VSS**:
+    Negative supply voltage.
 * Volt:
 * **Voltage**:
     The _potential_ to produce current, measured as a difference between two points (unit: _volts_)
