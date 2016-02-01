@@ -124,7 +124,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Direct current** (DC)<a name="direct-current"></a>:
     electrical flow in a single direction, e.g. from batteries
 * DTR:
-* Duty cycle:
+* **[Duty cycle](glossary/DUTY-CYCLE.md)**:
+    the percentage of one period in which a signal or system is active
 
 ### E
 
