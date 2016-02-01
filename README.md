@@ -2,7 +2,7 @@
 
 This is an organic, motley, community-based assortment of terms relating to [JavaScript on Things](#javascript-on-things), the intersection of JavaScript and the Internet of Things (IoT).
 
-The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](contributing.md).
+The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ). Wanna help? Great! Check out the [CONTRIBUTING guidelines](CONTRIBUTING.md).
 
 ## Glossary
 
@@ -38,36 +38,47 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **AC**:
     _see [alternating current](#alternating-current)_
 * **AC/DC adapter**:
-    a device that converts [_alternating current_](#alternating-current) to [_direct current_](#direct-current).
+    device that converts [_alternating current_](#alternating-current) to [_direct current_](#direct-current).
 * **Actuator**:
-    a physical device that converts energy into motion, e.g. a _motor_.
+    physical device that converts energy into motion, e.g. a _motor_
 * **[Adafruit Industries](glossary/ADAFRUIT.md)**:
     open-source hardware company and online store
 * **ADC**: _See [analog-to-digital conversion](#analog-to-digital-conversion)_
-* **Alternating Current**<a id="alternating-current"></a>:
-    electrical current in which the direction of flow reverses periodically. The kind that comes out of the wall in homes and offices.
-* **[Ampere](glossary/AMPERE.md)** or _Amp_:
+* **[Alternating Current](glossary/ALTERNATING-CURRENT.md)**<a id="alternating-current"></a>:
+    electrical current in which the direction of flow reverses periodically—the kind that comes out of the wall in homes and offices
+* **[Ampere](glossary/AMPERE.md)** or _amp_<a name="ampere"></a>:
     unit of current
 * **[Analog-to-Digital Conversion](glossary/ANALOG-TO-DIGITAL-CONVERSION.md)**<a id="analog-to-digital-conversion"></a>:
-    the conversion of analog voltages to digital values
+    conversion of analog voltages to digital values
 * **Analog-to-digital (ADC) converter**:
-    a device that can perform _[analog-to-digital conversion](#analog-to-digital-conversion)_
+    device that can perform _[analog-to-digital conversion](#analog-to-digital-conversion)_
 * **Anode**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
-    British semiconductor company that licenses the ARM architecture.
-* ARM (architecture):
-* ARM Cortex M:
-* Arduino:
-* Arduino IDE:
-* AREF:
-* Atmel Corporation:
-* ATmega:
-* AVCC:
-* AVR:
+    British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_
+* **ARM (architecture)**<a name="ARM-architecture"></a>:
+    family of RISC-based architectures for power-optimized processors, well-suited for (among other things) embedded applications
+* **ARM Cortex M**:
+    family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems
+* **Arduino (platform)**<a name="arduino-platform"></a>:
+    open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects
+* **Arduino IDE**:
+    development environment for writing in the Arduino programming language and uploading sketches to Arduino devices
+* **Arduino (programming language)**:
+    any C or C++ that _[avr-gcc](#avr-gcc)_ can compile
+* **Atmel Corporation**<a name="atmel-corporation"></a>:
+    American semiconductor manufacturer, known for embedded microcontrollers including _[AVR](#avr)_ _[ATmega](#atmega)_ microcontrollers
+* **ATmega**, or _megaAVR_ <a name="atmega"></a>:
+    family of microcontrollers manufactured by _[Atmel](#atmel-corporation)_, used widely in IoT electronics such as _[Arduinos](#arduino-platform)_
+* **AVR**, or Atmel AVR<a name="avr"></a>:
+    instruction set architecture (ISA) widely used in _[Atmel](#atmel-corporation)_ microcontrollers
 * AVRISP:
-* avrdude:
-* avrgirl:
+* **avrdude**:
+    command-line software utility to download, upload or manipulate the ROM and EEPROM contents of AVR microcontrollers
+* **avr-gcc**<a name="avr-gcc"></a>:
+    compiler that converts C/C++ code to binary code for uploading to _[AVR](#avr)_ microcontrollers
+* **avrgirl**:
+    collection of several npm packages for interacting with AVR microcontrollers
 
 ### B
 
@@ -88,16 +99,18 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Capacitive:
 * Cape:
 * **Cathode**:
-    electrode through which _[conventional current](#conventional-current)_ leaves (flows out of) a polarized device.
+    electrode through which _[conventional current](#conventional-current)_ leaves (flows out of) a polarized device
+* Charge:
 * CISC:
 * **Conventional current**<a name="conventional-current"></a>:
     mental model envisioning current as running from positive to negative in a circuit.
 * **Continuity**:
     An unbroken path from one part of a circuit to another.
-* <a name="conventional-current"></a>**Conventional current**:
-  Mental model of current as running from positive to negative in a circuit
-* cylon.js:
-* Current:
+* Coulumb:
+* **[cylon.js](glossary/CYLONJS.md)**:
+    JavaScript framework for robotics, physical computing, and the Internet of Things
+* **Current**:
+    The movement of electrons, usually measured in _[Amperes](#ampere)_ and denoted as `I` in _[Ohm's Law](#ohms-law)_
 
 ### D
 
@@ -110,9 +123,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Digital-to-Analog Converter (DAC):
 * Diode:
 * **Direct current** (DC)<a name="direct-current"></a>:
-    electrical flow in a single direction, e.g. from batteries.
+    electrical flow in a single direction, e.g. from batteries
 * DTR:
-* Duty cycle:
+* **[Duty cycle](glossary/DUTY-CYCLE.md)**:
+    the percentage of one period in which a signal or system is active
 
 ### E
 
@@ -124,6 +138,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * EL wire:
 * Embedded:
 * Embedded System:
+* Energy:
 * ESP8266:
 * Espruino:
 
@@ -147,8 +162,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### H
 
 * H bridge:
+    an electronic circuit that enables a voltage to be applied across a load in either direction
+* Harvard architecture:
 * Header:
 * Hexadecimal:
+    numeral system with base of 16, using A-F to represent ten through fifteen
 
 ### I
 
@@ -164,7 +182,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### J
 
 * **JavaScript on Things (JSoT)**<a name="javascript-on-things"></a>:
-    a muddled portmanteau of _JavaScript_ and _Internet of Things_. You know, for fun!
+    muddled portmanteau of _JavaScript_ and _Internet of Things_—you know, for fun!
 * JerryScript:
 * JLink:
 * johnny-five:
@@ -180,8 +198,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### L
 
 * LCD:
-* LED:
-* Light-emitting diode:
+* **LED**:
+    See [Light-emitting diode](#light-emitting-diode)
+* **Light-emitting diode**<a name="light-emitting-diode"></a>:
+    a two-lead semiconductor which emits light when activated
 * LiPo:
 * Lithium polymer:
 * Load sensor:
@@ -213,8 +233,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### O
 
 * Ohm
-* **[Ohm's Law](glossary/OHMS-LAW.md)**:
-    a foundational set of relationships between voltage, current and resistance.
+* **[Ohm's Law](glossary/OHMS-LAW.md)**<a name="ohms-law"></a>:
+    foundational set of relationships between voltage, current and resistance
 * OLED:
 * Onion:
 * Op amp:
@@ -320,6 +340,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Toggle switch:
 * Transceiver:
 * Transducer:
+* Transformer:
 * Transistor:
 * TTL:
 * **TX**:
@@ -339,7 +360,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     Positive supply voltage.
 * **VSS**:
     Negative supply voltage.
-* Voltage:
+* Volt:
+* **Voltage**:
+    The _potential_ to produce current, measured as a difference between two points (unit: _volts_)
 * Voltage divider:
 * Voltage regulator:
 
