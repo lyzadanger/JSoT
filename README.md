@@ -197,7 +197,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * LCD:
 * **LED**:
-    See [Light-emitting Diode](#light-emitting-diode)
+    See [Light-emitting diode](#light-emitting-diode)
 * **Light-emitting diode**<a name="light-emitting-diode"></a>:
    a two-lead semiconductor which emits light when activated
 * LiPo:
