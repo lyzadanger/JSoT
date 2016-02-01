@@ -103,14 +103,14 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Charge:
 * CISC:
 * **Conventional current**<a name="conventional-current"></a>:
-    mental model envisioning current as running from positive to negative in a circuit.
+    mental model envisioning current as running from positive to negative in a circuit
 * **Continuity**:
-    An unbroken path from one part of a circuit to another.
+    an unbroken path from one part of a circuit to another.
 * Coulumb:
 * **[cylon.js](glossary/CYLONJS.md)**:
     JavaScript framework for robotics, physical computing, and the Internet of Things
 * **Current**:
-    The movement of electrons, usually measured in _[Amperes](#ampere)_ and denoted as `I` in _[Ohm's Law](#ohms-law)_
+    the movement of charged electrons, usually measured in _[Amperes](#ampere)_ and denoted as `I` in _[Ohm's Law](#ohms-law)_
 
 ### D
 
@@ -156,12 +156,14 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### G
 
 * Galileo:
-* **General Purpose I/O (GPIO)**:
-    General purpose pins that can be configured to perform input or output.
+* **General Purpose I/O (GPIO)**<a name="general-purpose-io"></a>:
+    general purpose pins that can be configured to perform input or output
+* **GPIO**:
+    _See [General Purpose I/O](#general-purpose-io)_
 
 ### H
 
-* H bridge:
+* **H bridge**:
     an electronic circuit that enables a voltage to be applied across a load in either direction
 * Harvard architecture:
 * Header:
@@ -186,7 +188,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * JerryScript:
 * JLink:
 * johnny-five:
-* **JSoT**: See [JavaScript on Things](#javascript-on-things)
+* **JSoT**:
+    _see [JavaScript on Things](#javascript-on-things)_
 * JST:
 * JTAG:
 * Jumper wire:
@@ -199,7 +202,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * LCD:
 * **LED**:
-    See [Light-emitting diode](#light-emitting-diode)
+    _see [Light-emitting diode](#light-emitting-diode)_
 * **Light-emitting diode**<a name="light-emitting-diode"></a>:
     a two-lead semiconductor which emits light when activated
 * LiPo:
@@ -210,14 +213,18 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### M
 
 * Magnetometer:
+* **Master Input, Slave Output**<a name="master-input-slave-output"></a>:
+    _[SPI](#spi)_ input to master from slave device.
+* **Master Output, Slave Input**<a name="master-output-slave-input"></a>:
+    _[SPI](#spi)_ output from master to slave device.
 * MCU:
 * Mesh network:
 * Microcontroller:
-* **Master Input, Slave Output (MISO)**:
-    _[SPI](#spi)_ input to master from slave device.
+* **MISO**:
+    _see [Master Input, Slave Output](#master-input-slave-output)_
 * Mosfet:
-* **Master Output, Slave Input (MOSI)**:
-    _[SPI](#spi)_ output from master to slave device.
+* **MOSI**:
+    _see [Master Output, Slave Input](#master-output-slave-input)_
 * Motor:
 * Motor controller:
 * MQTT:
@@ -240,9 +247,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Op amp:
 * Open hardware:
 * **OpenOCD**:
-    Provides communication with embedded targets that enables on-chip debugging as well as in-system programming.
+    provides communication with embedded targets that enables on-chip debugging as well as in-system programming
 * **OpenSDA**:
-    Provides communication with many NXP/Freescale embedded targets (via USB) that enables debugging/programming.
+    provides communication with many NXP/Freescale embedded targets (via USB) that enables debugging/programming
 
 ### P
 
@@ -250,7 +257,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Particle Photon:
 * Particle Electron:
 * **PCB**<a name="pcb"></a>:
-    Printed circuit board.
+    Printed Circuit Board
 * Perfboard:
 * Photoresistor:
 * The Physical Web:
@@ -261,6 +268,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Pins:
 * Potentiometer:
 * Power:
+* **Printed Circuit Board**:
+    _see [PCB](#pcb)_
 * Program memory:
 * Programmer:
 * PROM:
@@ -289,16 +298,18 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * ROM:
 * Rotary encoder:
 * **RX**:
-    Shorthand for receive. Used with _[UART](#uart)_/_[USART](#usart)_ communication.
+    shorthand for _receive_; used with _[UART](#uart)_/_[USART](#usart)_ communication
 
 ### S
 
 * SBC:
 * **SCK**:
-    _[SPI](#spi)_ clock signal.
+    _[SPI](#serial-peripheral-interface)_ clock signal
 * Segment display:
 * Sensor:
 * Serial:
+* **Serial Peripheral Interface** (SPI)<a name="serial-peripheral-interface"></a>:
+    synchronous serial interface that provides communication between electronic components and devices
 * Servo:
 * Shield:
 * Shift register:
@@ -306,11 +317,12 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Single-pole dual-throw switch (SPDT):
 * Single-pole single-throw switch (SPST):
 * Sketch:
+* Slave Select:
 * Slide potentiometer or slide pot:
-* **Surface Mount Device (SMD)**<a name="smd"></a>:
-    Component that solders to pads on the surface of a _[PCB](#pcb)_.
-* **Surface Mount Technology (SMT)**:
-    Describes the production of circuits that utilize _[SMD](#smd)_.
+* **SMD**:
+    _see [Surface-mount device](#surface-mount-device)_
+* **SMT**:
+    _see [Surface-mount technology](#surface-mount-technology)_
 * SoC:
 * Software serial:
 * Solder:
@@ -318,18 +330,20 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * SparkFun:
 * SparkFun RedBoard:
 * Spec sheet:
-
-
-* **Serial Peripheral Interface (SPI)**<a name="spi"></a>:
-    A synchronous serial interface that provides communication between electronic components and devices.
+* **SPI**:
+    _see [Serial Peripheral Interface](#serial-peripheral-interface)_
 * SPDT:
 * SPST:
 * **SS**:
-    _[SPI](#spi)_ "Slave Select". Each SPI device in a circuit gets its own SS connection. Determines active device.
+    _[SPI](#spi)_ "Slave Select": each SPI device in a circuit gets its own SS connection. Determines active device
 * ST-Link:
 * Surface-mount:
+* **Surface-mount Device** (SMD)<a name="surface-mount-device"></a>:
+    component that solders to pads on the surface of a _[PCB](#pcb)_
+* **Surface-mount Technology (SMT)**<a name="surface-mount-technology"></a>:
+    describes the production of circuits that utilize _[SMD](#smd)_.
 * System bus:
-* System on a Chip:
+* System on a Chip (SoC):
 
 ### T
 
@@ -344,25 +358,27 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Transistor:
 * TTL:
 * **TX**:
-    Shorthand for transmit. Used with _[UART](#uart)_/_[USART](#usart)_ communication.
+    shorthand for _transmit_; used with _[UART](#uart)_/_[USART](#usart)_ communication
 
 ### U
 
-* **Universal Asynchronous Receive/Transmit (UART)**<a name="uart"></a>:
-    Basic asynchronous RS-232 serial communication.
-* **Universal Synchronous/Asynchronous Receive/Transmit (USART)**<a name="usart"></a>:
-    Basic synchronous or asynchronous RS-232 serial communication.
+* UART:
+* USART:
+* **Universal Asynchronous Receive/Transmit** (UART)<a name="uart"></a>:
+    basic asynchronous RS-232 serial communication.
+* **Universal Synchronous/Asynchronous Receive/Transmit**  (USART)<a name="usart"></a>:
+    basic synchronous or asynchronous RS-232 serial communication
 * USB OTG:
 
 ### V
 
 * **VCC**:
-    Positive supply voltage.
+    positive supply voltage
 * **VSS**:
-    Negative supply voltage.
+    negative supply voltage
 * Volt:
 * **Voltage**:
-    The _potential_ to produce current, measured as a difference between two points (unit: _volts_)
+    the _potential_ to produce current, measured as a difference between two points (unit: _volts_)
 * Voltage divider:
 * Voltage regulator:
 
