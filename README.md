@@ -261,6 +261,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Particle:
 * Particle Photon:
 * Particle Electron:
+* **Passive component**:
+    an electrical component that dissipates, stores or releases energy, but does not produce it
 * **PCB**<a name="pcb"></a>:
     Printed Circuit Board
 * Perfboard:
