@@ -105,12 +105,13 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Conventional current**<a name="conventional-current"></a>:
     mental model envisioning current as running from positive to negative in a circuit
 * **Continuity**:
-    an unbroken path from one part of a circuit to another.
+    an unbroken path from one part of a circuit to another
 * Coulumb:
 * **[cylon.js](glossary/CYLONJS.md)**:
     JavaScript framework for robotics, physical computing, and the Internet of Things
 * **Current**:
     the movement of charged electrons, usually measured in _[Amperes](#ampere)_ and denoted as `I` in _[Ohm's Law](#ohms-law)_
+* Current divider:
 
 ### D
 
@@ -132,8 +133,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Eagle:
 * Edison:
-* EEPROM:
+* **EEPROM**<A name="eeprom"></a>:
+    Electrically-erasable _[PROM](#prom)_ is a kind of non-volatile memory that can be written and erased repeatedly; [_Flash_](#flash-noun) memory is a kind of EEPROM
 * Electric Imp:
+* **Electrically-Erasable Programmable ROM**:
+    _see [EEPROM](#eeprom)_
 * Electroluminescent wire:
 * EL wire:
 * Embedded:
@@ -146,8 +150,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Firmware:
 * Firmata:
-* Flash _(noun)_:
-* Flash _(verb)_:
+* **Flash** (noun) <a name="flash-noun"></a>:
+    electronic non-volatile computer storage (_[EEPROM](#eeprom)_) medium that can be electrically erased and reprogrammed
+* Flash (verb):
 * Flux:
 * FRAM:
 * Fritzing:
@@ -272,7 +277,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     _see [PCB](#pcb)_
 * Program memory:
 * Programmer:
-* PROM:
+* **PROM**<a name="prom"></a>:
+    Programmable Read-only Memory (_[ROM](#rom)_)
 * Prototyping board:
 * Proximity sensor:
 * Pulldown resistor:
@@ -287,6 +293,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * RAM:
 * Raspberry Pi:
 * Raspbian:
+* **Read-only memory**:
+    _see [ROM](#rom)_
 * Real-time clock:
 * Reed switch:
 * Relay:
@@ -295,7 +303,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Resistance:
 * RISC:
 * ROHS:
-* ROM:
+* **ROM**<a name="rom"></a>:
+    Read-only memory. ROM is non-volatile, meaning that its contents are retained when the memory does not have power
 * Rotary encoder:
 * **RX**:
     shorthand for _receive_; used with _[UART](#uart)_/_[USART](#usart)_ communication
