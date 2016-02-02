@@ -303,8 +303,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Reset (button):
 * Resistor:
 * Resistance:
+* **Restriction of Hazardous Substances Directive**:
+    _see [RoHS](#RoHS)_
 * RISC:
-* ROHS:
+* **[RoHS](glossary/ROHS.md)**<a name="RoHS"></a>:
+    _Restriction of Hazardous Substances Directive_, adopted in 2003 in the EU, restricting the use of certain hazardous materials in the production of electronics
 * **ROM**<a name="rom"></a>:
     Read-only memory. ROM is non-volatile, meaning that its contents are retained when the memory does not have power
 * Rotary encoder:
