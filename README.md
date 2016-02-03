@@ -85,7 +85,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Backpack:
 * BeagleBone:
 * Bipolar Junction Transistor:
-* Bit:
+* **Bit**<a name="bit"></a>:
+    the smallest and most basic representation of data in a computer, with a value of 0 or 1
 * Bit shift:
 * Bitwise operator:
 * BJT:
@@ -95,7 +96,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Breadboard:
 * **Breakout board**<a name="breakout-board"></a>:
     small _[PCB](#pcb)_ centered around a single electronic component, making the component more convenient to work with through easier access to the component's features like I/O pins, power inputs, etc.
-* Byte:
+* **Byte**<a name="byte"></a>:
+    a segment of data containing 8 _[bits](#bit)_
 
 ### C
 
