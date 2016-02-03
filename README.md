@@ -97,7 +97,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### C
 
-* Capacitor:
+* **[Capacitor](glossary/CAPACITOR.md)**:
+    passive two-terminal electrical component used to store electrical energy temporarily
 * Capacitive:
 * Cape:
 * **Cathode**:
@@ -310,7 +311,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Reed switch:
 * Relay:
 * Reset (button):
-* Resistor:
+* **[Resistor](glossary/RESISTOR.md)**:
+    passive two-terminal component that reduces current flow and lowers voltage levels in circuits
 * Resistance:
 * **Restriction of Hazardous Substances Directive**:
     _see [RoHS](#RoHS)_
