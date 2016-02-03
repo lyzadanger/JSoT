@@ -97,7 +97,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Breakout board**<a name="breakout-board"></a>:
     small _[PCB](#pcb)_ centered around a single electronic component, making the component more convenient to work with through easier access to the component's features like I/O pins, power inputs, etc.
 * **Byte**<a name="byte"></a>:
-    a segment of data containing 8 _[bits](#bit)_
+    a segment of data containing eight _[bits](#bit)_
 
 ### C
 
@@ -185,7 +185,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     an electronic circuit that enables a voltage to be applied across a load in either direction
 * Harvard architecture:
 * Header:
-* Hexadecimal:
+* **Hexadecimal**:
     numeral system with base of 16, using A-F to represent ten through fifteen
 
 ### I
@@ -252,6 +252,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### N
 
 * NAND Flash:
+* **nibble**:
+    four _[bits](#bit)_, or, a single hexadecimal character (one hex character requires four bits to encode it)
 * nodebots:
 * NodeMCU:
 * NPN transistor:
@@ -424,7 +426,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Wall wart:
 * Watt:
 * Web Bluetooth:
-* Word:
+* **Word**:
+    the size of the unit of data or instructions used in a given processor's design
 
 ### X
 
