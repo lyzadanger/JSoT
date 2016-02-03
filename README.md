@@ -89,10 +89,12 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Bit shift:
 * Bitwise operator:
 * BJT:
-* Board:
+* **Board**:
+    any _[PCB](#pcb)_, but in hardware-hacking parlance, often a _[development board](#development-board)_, _[breakout board](#breakout-board)_ or _[shield](#shield)_
 * Bootloader:
 * Breadboard:
-* Breakout board:
+* **Breakout board**<a name="breakout-board"></a>:
+    small _[PCB](#pcb)_ centered around a single electronic component, making the component more convenient to work with through easier access to the component's features like I/O pins, power inputs, etc.
 * Byte:
 
 ### C
@@ -123,6 +125,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * DC:
 * Decoupling:
 * Desolder:
+* **Development board**<a name="development-board"></a>:
+    hardware prototyping board containing (potentially among other things) processor, memory, and I/O interfaces (pins); may be microcontroller-based or a _[single-board computer](#single-board-computer)_
 * Digital-to-Analog Conversion:
 * Digital-to-Analog Converter (DAC):
 * Diode:
@@ -291,7 +295,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Programmer:
 * **PROM**<a name="prom"></a>:
     Programmable Read-only Memory (_[ROM](#rom)_)
-* Prototyping board:
+* **Prototyping board**:
+    _see [development board](#development-board)_
 * Proximity sensor:
 * Pulldown resistor:
 * Pullup resistor:
@@ -336,9 +341,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Serial Peripheral Interface** (SPI)<a name="serial-peripheral-interface"></a>:
     synchronous serial interface that provides communication between electronic components and devices
 * Servo:
-* Shield:
+* **Shield**<a name="shield"></a>:
+    a board, typically focused on one functionality (e.g. WiFi), with a form factor is designed to fit and work well with a specific _[development board](#development-board)_
 * Shift register:
-* Single-board computer:
+* **Single-board computer (SBC)**:
+    analogous to a tiny motherboard, a small board with general-purpose computing functionality; sometimes also a _[development board](#development-board)_ (e.g. Raspberry Pi)
 * Single-pole dual-throw switch (SPDT):
 * Single-pole single-throw switch (SPST):
 * Sketch:
