@@ -52,7 +52,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     conversion of analog voltages to digital values
 * **Analog-to-digital (ADC) converter**:
     device that can perform _[analog-to-digital conversion](#analog-to-digital-conversion)_
-* **Anode**:
+* **[Anode](glossary/ANODE.md)**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
     British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_
