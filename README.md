@@ -181,7 +181,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### H
 
-* **H bridge**:
+* **[H bridge](glossary/HBRIDGE.md)**:
     an electronic circuit that enables a voltage to be applied across a load in either direction
 * Harvard architecture:
 * Header:
