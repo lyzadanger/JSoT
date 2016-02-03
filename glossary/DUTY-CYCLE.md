@@ -1,4 +1,4 @@
-The *duty cycle* is the percentage of one period or interval of time in which a signal or system is active. For example, if a digital signal spends half of its time on and half off, the duty cycle is 50%.
+The **duty cycle** is the percentage of one period or interval of time in which a signal or system is active. For example, if a digital signal spends half of its time on and half off, the duty cycle is 50%.
 
 Here's a helpful diagram from SparkFun's [article on duty cycle](https://learn.sparkfun.com/tutorials/pulse-width-modulation/duty-cycle):
 
