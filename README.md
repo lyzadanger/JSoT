@@ -139,6 +139,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Electrically-Erasable Programmable ROM**:
     _see [EEPROM](#eeprom)_
 * Electroluminescent wire:
+* Element: Name for common electrical component such as a resistor, capacitor, inductor, etc.
 * EL wire:
 * Embedded:
 * Embedded System:
@@ -161,10 +162,12 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### G
 
 * Galileo:
+* GND:
 * **General Purpose I/O (GPIO)**<a name="general-purpose-io"></a>:
     general purpose pins that can be configured to perform input or output
 * **GPIO**:
     _See [General Purpose I/O](#general-purpose-io)_
+* Ground:
 
 ### H
 
@@ -172,12 +175,12 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     an electronic circuit that enables a voltage to be applied across a load in either direction
 * Harvard architecture:
 * Header:
-* Hexadecimal:
+* **Hexadecimal**:
     numeral system with base of 16, using A-F to represent ten through fifteen
 
 ### I
 
-* I^2C
+* **[I^2C](glossary/I2C.md)**: (or I2C) Inter-Integrated Circuit. A serial bus for communicating between (multiple) chips and/or devices using only 2 shared lines.
 * ICSP:
 * Inductor:
 * Instruction Set:
@@ -383,12 +386,13 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * **VCC**:
     positive supply voltage
+* **VDD**: positive supply voltage
 * **VSS**:
     negative supply voltage
 * Volt:
 * **Voltage**:
     the _potential_ to produce current, measured as a difference between two points (unit: _volts_)
-* Voltage divider:
+* Voltage divider: By connecting two elements (typically resistors) in series, the voltage available at their intersection can be reduced to a desired level.
 * Voltage regulator:
 
 ### W
