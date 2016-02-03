@@ -2,4 +2,5 @@ A **resistor** is a passive two-terminal component that reduces current flow and
 
 Calculating the resistance needed in a circuit can be done with [Ohm's Law](./OHMS-LAW.md).
 
-![A typical axial resistor](https://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)
+![A typical axial resistor by Nunikasi via Wikipedia](https://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg "Photo by Nunikasi")  
+_Photo by Nunikasi via Wikipedia_
