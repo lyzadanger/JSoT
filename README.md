@@ -84,9 +84,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Backpack:
 * BeagleBone:
+* Bipolar Junction Transistor:
 * Bit:
 * Bit shift:
 * Bitwise operator:
+* BJT:
 * Board:
 * Bootloader:
 * Breadboard:
@@ -148,6 +150,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### F
 
+* FET:
+* Field-effect transitor (FET):
 * Firmware:
 * Firmata:
 * **Flash** (noun) <a name="flash-noun"></a>:
@@ -241,6 +245,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * NAND Flash:
 * nodebots:
 * NodeMCU:
+* NPN transistor:
 
 ### O
 
@@ -273,6 +278,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Pinoccio:
 * Pinout:
 * Pins:
+* PNP transistor:
 * Potentiometer:
 * Power:
 * **Printed Circuit Board**:
@@ -364,6 +370,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Teensy:
 * Tessel:
 * Thermocoupler:
+* Through-hole:
 * TMP 36:
 * Toggle switch:
 * Transceiver:
