@@ -150,6 +150,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### F
 
+* **Farad**:
+    unit for measuring electrical capacitance, named after physicist Michael Faraday
 * FET:
 * Field-effect transitor (FET):
 * Firmware:
@@ -249,7 +251,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### O
 
-* Ohm
+* **Ohm**:
+    unit of electrical resistance (symbol Ω), represented in _[Ohm's Law](#ohms-law)_ as `R`
 * **[Ohm's Law](glossary/OHMS-LAW.md)**<a name="ohms-law"></a>:
     foundational set of relationships between voltage, current and resistance
 * OLED:
@@ -397,8 +400,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     positive supply voltage
 * **VSS**:
     negative supply voltage
-* Volt:
-* **Voltage**:
+* **Volt**:
+    unit for measuring electric potential, i.e. _[voltage](#voltage)_, named after physicist Alessandro Volta, represented in _[Ohm's Law](#ohms-law)_ as `V`
+* **Voltage**<a name="voltage"></a>:
     the _potential_ to produce current, measured as a difference between two points (unit: _volts_)
 * Voltage divider:
 * Voltage regulator:
