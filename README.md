@@ -52,7 +52,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     conversion of analog voltages to digital values
 * **Analog-to-digital (ADC) converter**:
     device that can perform _[analog-to-digital conversion](#analog-to-digital-conversion)_
-* **Anode**:
+* **[Anode](glossary/ANODE.md)**:
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **[ARM (company)](glossary/ARM-COMPANY.md)**:
     British semiconductor company that licenses the _[ARM architecture](#ARM-architecture)_
@@ -84,18 +84,25 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Backpack:
 * BeagleBone:
-* Bit:
+* Bipolar Junction Transistor:
+* **Bit**<a name="bit"></a>:
+    the smallest and most basic representation of data in a computer, with a value of 0 or 1
 * Bit shift:
 * Bitwise operator:
-* Board:
+* BJT:
+* **Board**:
+    any _[PCB](#pcb)_, but in hardware-hacking parlance, often a _[development board](#development-board)_, _[breakout board](#breakout-board)_ or _[shield](#shield)_
 * Bootloader:
 * Breadboard:
-* Breakout board:
-* Byte:
+* **Breakout board**<a name="breakout-board"></a>:
+    small _[PCB](#pcb)_ centered around a single electronic component, making the component more convenient to work with through easier access to the component's features like I/O pins, power inputs, etc.
+* **Byte**<a name="byte"></a>:
+    a segment of data containing eight _[bits](#bit)_
 
 ### C
 
-* Capacitor:
+* **[Capacitor](glossary/CAPACITOR.md)**:
+    passive two-terminal electrical component used to store electrical energy temporarily
 * Capacitive:
 * Cape:
 * **Cathode**:
@@ -120,6 +127,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * DC:
 * Decoupling:
 * Desolder:
+* **Development board**<a name="development-board"></a>:
+    hardware prototyping board containing (potentially among other things) processor, memory, and I/O interfaces (pins); may be microcontroller-based or a _[single-board computer](#single-board-computer)_
 * Digital-to-Analog Conversion:
 * Digital-to-Analog Converter (DAC):
 * Diode:
@@ -149,6 +158,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### F
 
+* **Farad**:
+    unit for measuring electrical capacitance, named after physicist Michael Faraday
+* FET:
+* Field-effect transitor (FET):
 * Firmware:
 * Firmata:
 * **Flash** (noun) <a name="flash-noun"></a>:
@@ -242,12 +255,16 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### N
 
 * NAND Flash:
+* **nibble**:
+    four _[bits](#bit)_, or, a single hexadecimal character (one hex character requires four bits to encode it)
 * nodebots:
 * NodeMCU:
+* NPN transistor:
 
 ### O
 
-* Ohm
+* **Ohm**:
+    unit of electrical resistance (symbol Ω), represented in _[Ohm's Law](#ohms-law)_ as `R`
 * **[Ohm's Law](glossary/OHMS-LAW.md)**<a name="ohms-law"></a>:
     foundational set of relationships between voltage, current and resistance
 * OLED:
@@ -264,6 +281,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Particle:
 * Particle Photon:
 * Particle Electron:
+* **Passive component**:
+    an electrical component that dissipates, stores or releases energy, but does not produce it
 * **PCB**<a name="pcb"></a>:
     Printed Circuit Board
 * Perfboard:
@@ -274,6 +293,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Pinoccio:
 * Pinout:
 * Pins:
+* PNP transistor:
 * Potentiometer:
 * Power:
 * **Printed Circuit Board**:
@@ -282,7 +302,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Programmer:
 * **PROM**<a name="prom"></a>:
     Programmable Read-only Memory (_[ROM](#rom)_)
-* Prototyping board:
+* **Prototyping board**:
+    _see [development board](#development-board)_
 * Proximity sensor:
 * Pulldown resistor:
 * Pullup resistor:
@@ -302,10 +323,14 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Reed switch:
 * Relay:
 * Reset (button):
-* Resistor:
+* **[Resistor](glossary/RESISTOR.md)**:
+    passive two-terminal component that reduces current flow and lowers voltage levels in circuits
 * Resistance:
+* **Restriction of Hazardous Substances Directive**:
+    _see [RoHS](#RoHS)_
 * RISC:
-* ROHS:
+* **[RoHS](glossary/ROHS.md)**<a name="RoHS"></a>:
+    _Restriction of Hazardous Substances Directive_, adopted in 2003 in the EU, restricting the use of certain hazardous materials in the production of electronics
 * **ROM**<a name="rom"></a>:
     Read-only memory. ROM is non-volatile, meaning that its contents are retained when the memory does not have power
 * Rotary encoder:
@@ -314,7 +339,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### S
 
-* SBC:
+* **SBC**:
+    _see [Single-board Computer](#single-board-computer)_
 * **SCK**:
     _[SPI](#serial-peripheral-interface)_ clock signal
 * Segment display:
@@ -323,9 +349,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Serial Peripheral Interface** (SPI)<a name="serial-peripheral-interface"></a>:
     synchronous serial interface that provides communication between electronic components and devices
 * Servo:
-* Shield:
+* **Shield**<a name="shield"></a>:
+    a board, typically focused on one functionality (e.g. WiFi), with a form factor is designed to fit and work well with a specific _[development board](#development-board)_
 * Shift register:
-* Single-board computer:
+* **Single-board computer (SBC)**<a name="single-board-computer"></a>:
+    analogous to a tiny motherboard, a small board with general-purpose computing functionality; sometimes also a _[development board](#development-board)_ (e.g. Raspberry Pi)
 * Single-pole dual-throw switch (SPDT):
 * Single-pole single-throw switch (SPST):
 * Sketch:
@@ -362,6 +390,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Teensy:
 * Tessel:
 * Thermocoupler:
+* Through-hole:
 * TMP 36:
 * Toggle switch:
 * Transceiver:
@@ -389,8 +418,9 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **VDD**: positive supply voltage
 * **VSS**:
     negative supply voltage
-* Volt:
-* **Voltage**:
+* **Volt**:
+    unit for measuring electric potential, i.e. _[voltage](#voltage)_, named after physicist Alessandro Volta, represented in _[Ohm's Law](#ohms-law)_ as `V`
+* **Voltage**<a name="voltage"></a>:
     the _potential_ to produce current, measured as a difference between two points (unit: _volts_)
 * Voltage divider: By connecting two elements (typically resistors) in series, the voltage available at their intersection can be reduced to a desired level.
 * Voltage regulator:
@@ -400,7 +430,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * Wall wart:
 * Watt:
 * Web Bluetooth:
-* Word:
+* **Word**:
+    the size of the unit of data or instructions used in a given processor's design
 
 ### X
 
