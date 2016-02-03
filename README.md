@@ -332,7 +332,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### S
 
-* SBC:
+* **SBC**:
+    _see [Single-board Computer](#single-board-computer)_
 * **SCK**:
     _[SPI](#serial-peripheral-interface)_ clock signal
 * Segment display:
@@ -344,7 +345,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **Shield**<a name="shield"></a>:
     a board, typically focused on one functionality (e.g. WiFi), with a form factor is designed to fit and work well with a specific _[development board](#development-board)_
 * Shift register:
-* **Single-board computer (SBC)**:
+* **Single-board computer (SBC)**<a name="single-board-computer"></a>:
     analogous to a tiny motherboard, a small board with general-purpose computing functionality; sometimes also a _[development board](#development-board)_ (e.g. Raspberry Pi)
 * Single-pole dual-throw switch (SPDT):
 * Single-pole single-throw switch (SPST):
