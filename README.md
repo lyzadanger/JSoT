@@ -180,6 +180,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * GND:
 * **General Purpose I/O (GPIO)**<a name="general-purpose-io"></a>:
     general purpose pins that can be configured to perform input or output
+* **Genuino**: 
+    [Arduino](#arduino-platform)'s sister-brand sold outside of the US due to trademark disputes
 * **GPIO**:
     _See [General Purpose I/O](#general-purpose-io)_
 * Ground:
