@@ -86,6 +86,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Backpack:
 * **BeagleBone**: An [open-source hardware](#open-hardware) [single-board computer](#single-board-computer) produced by the BeagleBoard.org Foundation with a Texas Instruments processor
+* **Binary**:
+  numeral system with base of 2, typically using 0 and 1
 * Bipolar Junction Transistor:
 * **Bit**<a name="bit"></a>:
     the smallest and most basic representation of data in a computer, with a value of 0 or 1
