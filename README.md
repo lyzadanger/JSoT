@@ -83,7 +83,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### B
 
 * Backpack:
-* BeagleBone:
+* **BeagleBone**: An [open-source hardware](#open-hardware) [single-board computer](#single-board-computer) produced by the BeagleBoard.org Foundation with a Texas Instruments processor
 * Bipolar Junction Transistor:
 * **Bit**<a name="bit"></a>:
     the smallest and most basic representation of data in a computer, with a value of 0 or 1
@@ -270,7 +270,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * OLED:
 * Onion:
 * Op amp:
-* Open hardware:
+* Open hardware<a href="open-hardware"></a>:
 * **OpenOCD**:
     provides communication with embedded targets that enables on-chip debugging as well as in-system programming
 * **OpenSDA**:
