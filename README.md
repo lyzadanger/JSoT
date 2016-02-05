@@ -61,8 +61,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * **ARM Cortex M**:
     family of 32-bit RISC _[ARM](#ARM-architecture)_ processors widely used in embedded systems
 * **Arduino (platform)**<a name="arduino-platform"></a>:
-    open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects
-* **Arduino IDE**:
+    open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects and prototyping products
+* **Adruino Compatible**:
+    microcontrollors and development boards that can be programmed by the [Arduino IDE](#arduino-ide)
+* **Arduino IDE**<a name="arduino-ide"></a>:
     development environment for writing in the Arduino programming language and uploading sketches to Arduino devices
 * **Arduino (programming language)**:
     any C or C++ that _[avr-gcc](#avr-gcc)_ can compile
