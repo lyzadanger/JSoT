@@ -315,7 +315,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 ### R
 
 * RAM:
-* Raspberry Pi:
+* **Raspberry Pi**: A [single-board computer](#single-board-computer) produced by the Raspberry Pi Foundation
 * Raspbian:
 * **Read-only memory**:
     _see [ROM](#rom)_
