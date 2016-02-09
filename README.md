@@ -166,7 +166,8 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     unit for measuring electrical capacitance, named after physicist Michael Faraday
 * FET:
 * Field-effect transitor (FET):
-* Firmware:
+* **[Firmware](glossary/FIRMWARE.md)**<a name="firmware"></a>:
+    software written to the non-volatile [ROM](#rom) of embedded hardware
 * Firmata:
 * **Flash** (noun) <a name="flash-noun"></a>:
     electronic non-volatile computer storage (_[EEPROM](#eeprom)_) medium that can be electrically erased and reprogrammed
@@ -182,7 +183,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 * GND:
 * **General Purpose I/O (GPIO)**<a name="general-purpose-io"></a>:
     general purpose pins that can be configured to perform input or output
-* **Genuino**: 
+* **Genuino**:
     [Arduino](#arduino-platform)'s sister-brand sold outside of the US due to trademark disputes
 * **GPIO**:
     _See [General Purpose I/O](#general-purpose-io)_
