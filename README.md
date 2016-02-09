@@ -166,10 +166,10 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     unit for measuring electrical capacitance, named after physicist Michael Faraday
 * FET:
 * Field-effect transitor (FET):
-* **[Firmware](glossary/FIRMWARE.md)**<a name="firmware"></a>:
-    software written to the non-volatile [ROM](#rom) of embedded hardware
-* **Firmata**:
-    protocol for communication between the software on a host computer and a microcontroller; the best-known implementation is for Arduino
+* **[Firmware](glossary/FIRMWARE.md)** <a name="firmware"></a>:
+    semi-permanent software written to the non-volatile [ROM](#rom) of embedded hardware
+* **[Firmata](glossary/FIRMATA.md)** <a name="firmata"></a>:
+    protocol for communication between the software on a host computer and a microcontroller; the best-known implementation is for _[Arduino-compatible](#arduino-compatible)_ boards
 * **Flash** (noun) <a name="flash-noun"></a>:
     electronic non-volatile computer storage (_[EEPROM](#eeprom)_) medium that can be electrically erased and reprogrammed
 * Flash (verb):
