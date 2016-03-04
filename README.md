@@ -56,8 +56,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
     electrode through which _[conventional current](#conventional-current)_ enters (flows into) a polarized device
 * **Arduino (platform)**<a name="arduino-platform"></a>:
     open-source electronics platform based on easy-to-use hardware and software, intended for anyone making interactive projects and prototyping products
-* **Arduino (programming language)**:
-    any C or C++ that _[avr-gcc](#avr-gcc)_ can compile
+* Arduino (programming language):
 * **Arduino Compatible**<a name="arduino-compatible"></a>:
     microcontrollors and development boards that can be programmed by the [Arduino IDE](#arduino-ide)
 * **Arduino IDE**<a name="arduino-ide"></a>:
